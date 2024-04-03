@@ -1,0 +1,7 @@
+C:\Users\burnf\source\repos\WebAssemStudent\WebAssemStudent\obj\Release\net7.0\PubTmp\Out\WebAssemStudent.exe
+C:\Users\burnf\source\repos\WebAssemStudent\WebAssemStudent\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\burnf\source\repos\WebAssemStudent\WebAssemStudent\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\burnf\source\repos\WebAssemStudent\WebAssemStudent\obj\Release\net7.0\PubTmp\Out\WebAssemStudent.dll
+C:\Users\burnf\source\repos\WebAssemStudent\WebAssemStudent\obj\Release\net7.0\PubTmp\Out\WebAssemStudent.deps.json
+C:\Users\burnf\source\repos\WebAssemStudent\WebAssemStudent\obj\Release\net7.0\PubTmp\Out\WebAssemStudent.runtimeconfig.json
+C:\Users\burnf\source\repos\WebAssemStudent\WebAssemStudent\obj\Release\net7.0\PubTmp\Out\WebAssemStudent.pdb
